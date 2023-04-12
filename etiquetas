@@ -1,0 +1,13 @@
+
+
+
+Los elementos HTML suelen dividirse en tres partes. Esta combinación de las tres crea un elemento HTML.
+
+    Etiqueta de apertura: Se utiliza para indicar dónde empieza un elemento. Está envuelta en corchete de apertura y cierre. Por ejemplo puedes usar la etiqueta de inicio <p> para crear un párrafo.
+    Contenido: El contenido es el resultado que ve la audiencia.
+    Etiqueta de cierre: Es lo mismo que la etiqueta de apertura pero con una barra inclinada delante del nombre del elemento. Es decir, </p> para finalizar un párrafo.
+
+Otra parte fundamental de un elemento HTML son los atributos. Estos tienen dos secciones:
+
+    Nombre: El nombre identifica la información adicional que un usuario quiere agregar.
+    Valor del atributo: Da más detalles que el anterior.
